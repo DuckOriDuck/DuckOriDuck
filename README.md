@@ -1,8 +1,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oriduckduck)](https://solved.ac/oriduckduck/)
 
-- 🌱 I’m currently learning
-- java
 <!--
 **Garodden/Garodden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
