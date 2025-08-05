@@ -12,7 +12,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?&style=flat&logo=ansible&logoColor=FFFFFF)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=jenkins&logoColor=FFFFFF)
 ![Argo](https://img.shields.io/badge/Argo-EF7B4D.svg?&style=flat&logo=argo&logoColor=FFFFFF)
-![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25.svg?&style=flat&logo=gnubash&logoColor=FFFFFF)
+![Shell Script](https://img.shields.io/badge/Shell_Script-black.svg?&style=flat&logo=gnubash&logoColor=FFFFFF)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?&style=flat&logo=vim&logoColor=FFFFFF)
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?&style=flat&logo=amazonaws&logoColor=FFFFFF)
