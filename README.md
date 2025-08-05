@@ -23,7 +23,7 @@
 
 
 ### Certifications
-[![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/9d578a59-310f-4147-8ad7-73158f26b2d2/public_url)
+[![CKA](https://img.shields.io/badge/CNCF/LF-Certified_Kubernetes_Administrator-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/9d578a59-310f-4147-8ad7-73158f26b2d2/public_url)
 [![AWS SAA](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?style=flat)](https://www.credly.com/badges/63e46854-1f27-4156-8927-eaabe084bc71/public_url)
 
 ---
