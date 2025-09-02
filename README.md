@@ -10,7 +10,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=FFFFFF)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?&style=flat&logo=terraform&logoColor=FFFFFF)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?&style=flat&logo=ansible&logoColor=FFFFFF)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat&logo=jenkins&logoColor=FFFFFF)
+![Ansible](https://img.shields.io/badge/GithubActions-2088FF.svg?&style=flat&logo=githubactions&logoColor=FFFFFF)
 ![Argo](https://img.shields.io/badge/Argo-EF7B4D.svg?&style=flat&logo=argo&logoColor=FFFFFF)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-black.svg?&style=flat&logo=gnubash&logoColor=FFFFFF)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?&style=flat&logo=vim&logoColor=FFFFFF)
