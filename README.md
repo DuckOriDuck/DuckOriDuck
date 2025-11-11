@@ -1,5 +1,4 @@
 ## ChangDeok Seo | 서창덕
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/bab55be4-0b4d-4737-aa31-029c662f573a" />
 
 ### About Me
 - Engineer focused on backend development, Linux systems, and cloud-native DevOps.
