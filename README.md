@@ -17,10 +17,10 @@
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?&style=flat&logo=vim&logoColor=FFFFFF)
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?&style=flat&logo=amazonaws&logoColor=FFFFFF)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=ubuntu&logoColor=FFFFFF)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?&style=flat&logo=archlinux&logoColor=FFFFFF)
+![Fedora](https://img.shields.io/badge/Fedora-072C61.svg?&style=flat&logo=fedora&logoColor=FFFFFF)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3.svg?&style=flat&logo=nixos&logoColor=FFFFFF)
-
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?&style=flat&logo=archlinux&logoColor=FFFFFF)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=ubuntu&logoColor=FFFFFF)
 
 
 ### Certifications
