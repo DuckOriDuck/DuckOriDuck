@@ -1,8 +1,8 @@
 ## ChangDeok Seo | 서창덕
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/25c4fac5-a4a4-488d-b451-d73d04d923dd" />
-
 ### About Me
 - Engineer focused on backend development, Linux systems, and cloud-native DevOps.
+<img width="512" height="512" alt="ducksnest" src="https://github.com/user-attachments/assets/7ee273a7-fb4c-4ec3-96c5-fb8ebc156646" />
+
 ### Tech Stack
 ![Springboot](https://img.shields.io/badge/Springboot-6DB33F.svg?&style=flat&logo=springboot&logoColor=FFFFFF)
 ![Mysql](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=FFFFFF)
