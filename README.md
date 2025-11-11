@@ -11,8 +11,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat&logo=kubernetes&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=FFFFFF)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?&style=flat&logo=terraform&logoColor=FFFFFF)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?&style=flat&logo=ansible&logoColor=FFFFFF)
-![Ansible](https://img.shields.io/badge/GithubActions-2088FF.svg?&style=flat&logo=githubactions&logoColor=FFFFFF)
+![GithubActions](https://img.shields.io/badge/GithubActions-2088FF.svg?&style=flat&logo=githubactions&logoColor=FFFFFF)
 ![Argo](https://img.shields.io/badge/Argo-EF7B4D.svg?&style=flat&logo=argo&logoColor=FFFFFF)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-black.svg?&style=flat&logo=gnubash&logoColor=FFFFFF)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?&style=flat&logo=vim&logoColor=FFFFFF)
@@ -32,7 +31,7 @@
 ## Project
 |Timeline|Name|tech stack|note|
 |:---:|:---:|:---:|:---:|
-|`2025.08`~`25.**`|Hybrid Cloud Homelab Project<br>[DucksNest](https://github.com/DuckOriDuck/ducksnest-homelab)|`AWS`, `Terraform`<br>`Ansible`, `K8s`<br>`GithubActions`<br> `ArgoCD`,`NixOS`|Currently in Construction|
+|`2025.08`~`25.**`|Hybrid Cloud Homelab Project<br>[DucksNest](https://github.com/DuckOriDuck/ducksnest-homelab)|`AWS`,`Terraform`<br>`Kubernetes`<br>`GithubActions`<br> `ArgoCD`,`NixOS`|Currently in Construction|
 |`24.11`~`25.01`|취업이 처음인 당신을 위한 가이드, 취업 관리 원툴 플랫폼 <br> [JOBPREP](https://github.com/JOBPREP-BE/JOBPREP-BE)|`GCP`<br>`SpringBoot`|The project has been aborted|
 |`24.04`~`24.05` |📧글로벌 커리어 SNS 서비스 <br> [1inked-1n](https://github.com/Garodden/1inked-1n)|`SpringBoot`|ESTsoft 백엔드 개발자 양성 과정 4기 파이널 프로젝트대상 수상|
 |`24.03`~`24.04`|💻 키보드 타자 속도 경쟁 커뮤니티 서비스 <br> [Keyboard Arena](https://github.com/Garodden/keyboard-arena)|`SpringBoot`<br>`React.js`|ESTsoft 백엔드 개발자 양성 과정 4기 중간 프로젝트 우수상 수상|
