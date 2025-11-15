@@ -4,10 +4,6 @@
 <img width="512" height="512" alt="ducksnest" src="https://github.com/user-attachments/assets/7ee273a7-fb4c-4ec3-96c5-fb8ebc156646" />
 
 ### Tech Stack
-![Springboot](https://img.shields.io/badge/Springboot-6DB33F.svg?&style=flat&logo=springboot&logoColor=FFFFFF)
-![Mysql](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat&logo=postgresql&logoColor=FFFFFF)
-
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat&logo=kubernetes&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=docker&logoColor=FFFFFF)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?&style=flat&logo=terraform&logoColor=FFFFFF)
@@ -22,6 +18,9 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1.svg?&style=flat&logo=archlinux&logoColor=FFFFFF)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=flat&logo=ubuntu&logoColor=FFFFFF)
 
+![Springboot](https://img.shields.io/badge/Springboot-6DB33F.svg?&style=flat&logo=springboot&logoColor=FFFFFF)
+![Mysql](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat&logo=postgresql&logoColor=FFFFFF)
 
 ### Certifications
 [![CKA](https://img.shields.io/badge/CNCF/LF-Certified_Kubernetes_Administrator-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/9d578a59-310f-4147-8ad7-73158f26b2d2/public_url)
