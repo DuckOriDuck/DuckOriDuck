@@ -30,7 +30,8 @@
 ## Project
 |Timeline|Name|tech stack|note|
 |:---:|:---:|:---:|:---:|
-|`2025.08`~`25.**`|Hybrid Cloud Homelab Project<br>[DucksNest](https://github.com/DuckOriDuck/ducksnest-homelab)|`AWS`,`Terraform`<br>`Kubernetes`<br>`GithubActions`<br> `ArgoCD`,`NixOS`|Currently in Construction|
+|`25.11.15`~`25.11.23`|One Click Auto Deploy PaaS,<br>[WhaleRay](https://github.com/DuckOriDuck/WhaleRay)|`AWS`, `Terraform`, `Github App`, `NginX`|Preliminary entry for **Softbank Hackathon 2025 in Korea**|
+|`25.08`~`25.**`|Hybrid Cloud Homelab Project<br>[DucksNest](https://github.com/DuckOriDuck/ducksnest-homelab)|`AWS`,`Terraform`<br>`Kubernetes`<br>`GithubActions`<br> `ArgoCD`,`NixOS`|Currently in Construction|
 |`24.11`~`25.01`|취업이 처음인 당신을 위한 가이드, 취업 관리 원툴 플랫폼 <br> [JOBPREP](https://github.com/JOBPREP-BE/JOBPREP-BE)|`GCP`<br>`SpringBoot`|The project has been aborted|
 |`24.04`~`24.05` |📧글로벌 커리어 SNS 서비스 <br> [1inked-1n](https://github.com/Garodden/1inked-1n)|`SpringBoot`|ESTsoft 백엔드 개발자 양성 과정 4기 파이널 프로젝트대상 수상|
 |`24.03`~`24.04`|💻 키보드 타자 속도 경쟁 커뮤니티 서비스 <br> [Keyboard Arena](https://github.com/Garodden/keyboard-arena)|`SpringBoot`<br>`React.js`|ESTsoft 백엔드 개발자 양성 과정 4기 중간 프로젝트 우수상 수상|
