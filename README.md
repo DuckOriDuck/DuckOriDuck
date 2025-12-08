@@ -1,7 +1,6 @@
 ## ChangDeok Seo | 서창덕
 ### About Me
 - Engineer focused on backend development, Linux systems, and cloud-native DevOps.
-<img width="512" height="512" alt="ducksnest" src="https://github.com/user-attachments/assets/7ee273a7-fb4c-4ec3-96c5-fb8ebc156646" />
 
 ### Tech Stack
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat&logo=kubernetes&logoColor=FFFFFF)
