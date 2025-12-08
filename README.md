@@ -30,6 +30,7 @@
 ## Project
 |Timeline|Name|tech stack|note|
 |:---:|:---:|:---:|:---:|
+|`25.11.29`~`25.12.7`|User Friendly and Lightweight FaaS,<br>[Cutty-X](https://github.com/Softbank-Hackathon-2025-Team-Green)|`AWS`,`K3s`,`Knative`,`Fluent bit`|**2nd Place Winner** at the **Softbank Hackathon 2025 in Korea Finals**|
 |`25.11.15`~`25.11.23`|One Click Auto Deploy PaaS,<br>[WhaleRay](https://github.com/DuckOriDuck/WhaleRay)|`AWS`, `Terraform`, `Github App`, `NginX`|Preliminary entry for **Softbank Hackathon 2025 in Korea**|
 |`25.08`~`25.**`|Hybrid Cloud Homelab Project<br>[DucksNest](https://github.com/DuckOriDuck/ducksnest-homelab)|`AWS`,`Terraform`<br>`Kubernetes`<br>`GithubActions`<br> `ArgoCD`,`NixOS`|Currently in Construction|
 |`24.11`~`25.01`|취업이 처음인 당신을 위한 가이드, 취업 관리 원툴 플랫폼 <br> [JOBPREP](https://github.com/JOBPREP-BE/JOBPREP-BE)|`GCP`<br>`SpringBoot`|The project has been aborted|
